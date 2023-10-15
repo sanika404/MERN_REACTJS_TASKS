@@ -1,0 +1,21 @@
+.mainpara{
+    margin-top: 20vh;
+   
+ 
+}
+.mainpara >h2{
+    font-size:30px ;
+    width: 60vh;
+}
+.area{
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: black;
+    padding: 15px;
+    font-size: 16px;
+    margin: 0 auto;
+ 
+}
+
+
+
